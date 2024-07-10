@@ -82,6 +82,13 @@ export default function ProjectDetails() {
         ))}
       </ul>
       <h2 className="text-2xl font-bold mb-4">Design Document</h2>
+      <div className="w-full" style={{ paddingTop: "141.4%", position: "relative" }}>
+        <iframe
+          src="/pdfs/llm-design-doc.pdf"
+          className="absolute top-0 left-0 w-full h-full"
+          style={{ border: "none" }}
+        />
+      </div>
     </div>
   );
 }
