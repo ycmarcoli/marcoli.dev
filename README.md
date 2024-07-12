@@ -2,6 +2,8 @@
 
 Welcome to the repository for marcoli.dev. This site serves as a portfolio of my work and a platform to share my thoughts and experiences.
 
+![marcoli.dev preview](./preview.png)
+
 ## 📋 Table of Contents
 - [About]
 - [Technologies Used]
