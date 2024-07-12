@@ -1,3 +1,10 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@font-face {
+  font-family: "Agave Nerd Font";
+  src: url("../src/fonts/AgaveNerdFont-Regular.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}

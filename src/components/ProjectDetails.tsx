@@ -8,7 +8,7 @@ const projectsData = {
     year: "2024",
     title: "Real Estate LLM ChatBot",
     description:
-      "Web-based chatbot using an open-source Large Language Model (LLM) that can run locally.",
+      "Web-based chatbot using local Llama3 that can provide contexual responses based on the current state.",
     longDescription:
       "This project involves developing an intelligent web-based chatbot using an open-source Large Language Model (LLM) that can run locally. The chatbot will be capable of understanding natural language queries and providing relevant, accurate responses related to real estate.",
     tags: ["AWS Amplify", "Route 53", "DynamoDB", "Cognito", "Next.js", "React Native"],

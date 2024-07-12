@@ -4,9 +4,10 @@ export default {
   theme: {
     extend: {
       fontFamily: {
-        agave: ['Agave Nerd Font', 'sans-serif'],
+        agave: ['Agave Nerd Font', 'monospace'],
       },
     },
   },
+  darkMode: 'selector',
   plugins: [],
 };

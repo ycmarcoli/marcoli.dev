@@ -6,7 +6,7 @@ export default function Home() {
     year: "2024",
     title: "Real Estate LLM ChatBot",
     description:
-      "Web-based chatbot using an open-source Large Language Model (LLM) that can run locally.",
+      "Web-based chatbot using local Llama3 that can provide contexual responses based on the current state.",
     tags: ["AWS Amplify", "Route 53", "DynamoDB", "Cognito", "Next.js", "React Native"],
     githubLink: "https://github.com/ycmarcoli/AmpliBot",
     slug: "real-estate-llm-chatbot",

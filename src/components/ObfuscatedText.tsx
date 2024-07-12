@@ -72,7 +72,7 @@ function ObfuscatedText({ text, underline, icon }: ObfuscatedTextProps): JSX.Ele
           {isHovered ? obfuscatedText : text}
         </span>
       </span>
-      {icon && <span className="ml-1 mb-1">{icon}</span>}
+      {icon && <span className="ml-0.5 mb-0.5">{icon}</span>}
     </span>
   );
 }

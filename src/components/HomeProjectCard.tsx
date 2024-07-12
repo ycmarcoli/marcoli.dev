@@ -20,15 +20,15 @@ export default function HomeProjectCard({
   slug,
 }: HomeProjectCardProps) {
   return (
-    <div className="bg-gray-200 border-gray-400 border rounded-lg p-6 flex flex-col h-full">
+    <div className="bg-gray-200 border-gray-400 border rounded-lg p-6 flex flex-col h-full dark:bg-zinc-700 dark:border-zinc-500">
       <div className="flex-grow">
-        <span className="text-gray-500">{year}</span>
+        <span className="text-gray-500 dark:text-gray-400">{year}</span>
         <a href={githubLink} target="_blank" rel="noopener noreferrer">
           <h3 className="text-xl font-bold mb-2 hover:underline">
             <ObfuscatedText text={title} underline />
           </h3>
         </a>
-        <p className="text-gray-700 mb-4">{description}</p>
+        <p className="text-gray-700 mb-4 dark:text-gray-300">{description}</p>
         <div className="flex flex-wrap gap-2 mb-4">
           {tags.map((tag, index) => (
             <ProjectTag key={index}>{tag}</ProjectTag>
