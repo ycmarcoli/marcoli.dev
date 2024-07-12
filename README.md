@@ -5,13 +5,13 @@ Welcome to the repository for marcoli.dev. This site serves as a portfolio of my
 ![marcoli.dev preview](./preview.png)
 
 ## 📋 Table of Contents
-- [About]
-- [Technologies Used]
-- [Projects]
-- [Setup]
-- [Deployment]
-- [Contributing]
-- [Contact]
+- About
+- Technologies Used
+- Projects
+- Setup
+- Deployment
+- Contributing
+- Contact
 
 ## 🌟 About
 Welcome to marcoli.dev, my personal portfolio! I'm a passionate Software Engineer with a an interest in AI and Full Stack Web Deveopment! This website is a showcase of my journey, featuring:
